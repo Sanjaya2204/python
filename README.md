@@ -1,1 +1,1 @@
-# python
+# Snake Game
